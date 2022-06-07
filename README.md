@@ -1,4 +1,4 @@
-![mine](https://raw.githubusercontent.com/rezzco/rezzco/main/pic.jpeg)
+![mine](https://raw.githubusercontent.com/rezzco/rezzco/main/pic.png)
 
 Passionate software engineer with a particular focus on Java. I think testing is more important than we believe :).
 
