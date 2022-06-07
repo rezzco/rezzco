@@ -1,3 +1,4 @@
+[Rezzco everyday's life](https://miro.medium.com/max/1020/1*rN15Fc0T-yYiSB0lVfMUmA.jpeg)
 Passionate software engineer with a particular focus on Java. I think testing is more important than we believe :).
 
 🔭 Currently working on myself – Selenium, Java, Python
