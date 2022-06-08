@@ -1,9 +1,8 @@
 <html>
     <body>
         <img  style="text-align:center; margin:1px;" src="https://raw.githubusercontent.com/rezzco/rezzco/main/pic.png"/>
-
-        <p>Passionate software engineer with a particular focus on Java. I think testing is more important than we believe :).</p>
-        
+        <p>Passionate software engineer with a particular focus on Java. I think testing is more important than we believe :).
+        </p>        
         <p>🔭 Currently working on myself – Selenium, Java, Python</p>
         <p>🌱 Learning anything I can get my hands on!</p>
         <p>👯 Always looking to collaborate</p>
