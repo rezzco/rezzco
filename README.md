@@ -8,6 +8,10 @@
         <p>👯 Always looking to collaborate</p>
         <p>🤔 I’m looking for help with learning path</p>
         <p>💬 Ask me about scripting</p>
-        <p>📫 Let's connect – <a href-"https://www.linkedin.com/in/reza-shahriari-16043643/">linkedin</a> | <a href="https://stackoverflow.com/users/10753128/rez-shahr">Stack Over Flow </a></p>
+        <p>📫 Let's connect –
+        <a href="https://www.linkedin.com/in/reza-shahriari-16043643/"> linkedin 
+        </a>|
+        <a href="https://stackoverflow.com/users/10753128/rez-shahr"> Stack Over Flow</a>
+        </p>
     </body>
 </html>
