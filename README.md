@@ -8,7 +8,7 @@
 
 👯 Always looking to collaborate
 
-🤔 I’m looking for help with learning path
+🤔 🤔 Current obsession: comming up with a Selenium Java QA Template
 
 💬 Ask me about scripting
 
