@@ -8,7 +8,7 @@
 
 👯 Always looking to collaborate
 
-🤔 🤔 Current obsession: comming up with a Selenium Java QA Template
+🤔 🤔 Current obsession: Learning Java best practices to improve QA page object pattern
 
 💬 Ask me about scripting
 
